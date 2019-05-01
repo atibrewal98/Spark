@@ -1,6 +1,6 @@
 <img src="Assets/logo.png" alt="" width="100px"/>
 
-# Spark
+# GoDash
 
 ## Introduction
 
